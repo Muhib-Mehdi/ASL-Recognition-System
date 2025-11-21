@@ -23,21 +23,21 @@ This project aims to improve communication accessibility for people with speech 
 | MediaPipe | Hand Tracking & Keypoint Extraction |
 | NumPy / Pandas | Data Processing |
 
----
-
 ## 📂 Project Structure (example)
-ASL-Recognition-System/
-│── model/ # Trained model files
-│── dataset/ # Dataset used for training
-│── src/ # Main application code
-│ ├── train.py
-│ ├── predict.py
-│ ├── utils.py
-│── requirements.txt
-│── README.md
-│── app.py # Main real-time detection script
 
----
+<pre>
+ASL-Recognition-System/
+├── model/                     # Trained model files
+├── dataset/                   # Dataset used for training
+├── src/                       # Main application code
+│   ├── train.py
+│   ├── predict.py
+│   ├── utils.py
+├── requirements.txt
+├── README.md
+├── app.py                     # Main real-time detection script
+</pre>
+
 
 # 🔧 Installation & Setup
 ## 1️⃣ Clone the repository  
