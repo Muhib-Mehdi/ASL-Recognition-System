@@ -40,17 +40,17 @@ ASL-Recognition-System/
 ---
 
 ## 🔧 Installation & Setup
-#1️⃣ Clone the repository  
+# 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/Muhib-Mehdi/ASL-Recognition-System.git
 cd ASL-Recognition-System
 ```
 
-#2️⃣ Install dependencies
+# 2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-#3️⃣ Run the application
+# 3️⃣ Run the application
 ```bash
 python app.py
 ```
